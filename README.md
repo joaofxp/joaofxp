@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🗺 a fan of technology and the use of it to make people's lives easier. 
 
 ### My Skills
-[![My Skills]([https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light](https://skillicons.dev/icons?i=js,ts,html,css,git,mysql,nodejs,vscode,jquery,py,webpack,angular,aws,babel,bootstrap,figma,gatsby,github,gitlab,heroku,java,php,postgres,postman,r,react,regex,sass,tailwind,sqlite,selenium,visualstudio,wordpressai,ps,unity,blender,&theme=light))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,mysql,nodejs,vscode,jquery,py,webpack,angular,aws,babel,bootstrap,figma,gatsby,github,gitlab,heroku,java,php,postgres,postman,r,react,regex,sass,tailwind,sqlite,selenium,visualstudio,wordpress,ai,ps,unity,blender,&theme=light)](https://skillicons.dev)
