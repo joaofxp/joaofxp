@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🎓 I am a computer scientist, graduated from Univali;
 - 💬 Always open to talk;
 - 🗺 a fan of technology and the use of it to make people's lives easier. 
-- 📩 Reach me at johnfsc@outlook.com;
+- 📩 Reach me at joaofrancisco.dev@outlook.com;
 
 #### Language and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,mysql,nodejs,jquery,py,bootstrap,github,gitlab,java,php,postgres,angular,react,sass,aws,r,regex,&theme=light)](https://skillicons.dev)
