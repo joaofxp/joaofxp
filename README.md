@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - 👨‍💻 Software developer since 2015 and going;
 - 🎓 I am a computer scientist, graduated from Univali;
 - 💬 Always open to talk;
-- 🗺 a fan of technology and the use of it to make people's lives easier. 
+- 🗺 a fan of technology and the use of it to make people's lives easier;
 - 📩 Reach me at joaofrancisco.dev@outlook.com;
+- 📋 You can see my resume [here](https://github.com/joaofxp/joaofxp.github.io/blob/main/Resume_Joao_Francisco.pdf).
 
 #### Language and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,mysql,nodejs,jquery,py,bootstrap,github,gitlab,java,php,postgres,angular,react,sass,aws,r,regex,&theme=light)](https://skillicons.dev)
