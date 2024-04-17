@@ -76,8 +76,17 @@
 <summary>Extensions</summary>
 <br>
 <ul>
-<li> extension 1</li>
-<li> extension 2</li>
-<li> extension 3</li>
+    <li>Code Spell Checker</li>
+    <li>Github Pull Requests And Issues</li>
+    <li>GitLens</li>
+    <li>Git Extension </li>
+    <li>Lorem Ipsum</li>
+    <li>Path Intelissense</li>
+    <li>Polacode</li>
+    <li>Expand-Region</li>
+    <li>Red Hat Sql Formatter</li>
+    <li>Sql Server</li>
+    <li>Xml</li>
+    <li>Xml Tools</li>
 </ul>
 </details>
