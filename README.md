@@ -5,7 +5,6 @@
 -   💬 Always open to talk;
 -   🗺 a fan of technology and the use of it to make people's lives easier;
 -   📩 Reach me at joaofrancisco.dev@outlook.com;
--   📋 You can see my resume [here](https://github.com/joaofxp/joaofxp.github.io/blob/main/Resume_Joao_Francisco.pdf).
 
 # 💻 Tech Stack
 
